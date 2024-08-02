@@ -25,6 +25,12 @@ This repository contains the work and projects completed as part of the Oasis In
 - **Techniques**: Common algorithms include k-Nearest Neighbors (k-NN), Decision Trees, Support Vector Machines (SVM), and Logistic Regression.
 - **Evaluation**: Accuracy, precision, recall, and F1-score are used to evaluate model performance.
 
+## 2. Unemployment Analysis
+- **Dataset**: Unemployment data typically includes features like age, gender, education level, work experience, and regional economic indicators.
+- **Goal**: Analyze and predict unemployment rates, identify trends, and determine factors influencing unemployment.
+- **Techniques**: Time series analysis, regression models, clustering, and machine learning algorithms such as Random Forest and Gradient Boosting.
+- **Evaluation**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared for predictive models; visualizations for trend analysis.
+
 **Clone the repository**:
 ```bash
 git clone https://github.com/shrutiijainn11/OIBSIP.git
