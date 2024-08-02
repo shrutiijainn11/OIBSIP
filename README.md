@@ -31,6 +31,12 @@ This repository contains the work and projects completed as part of the Oasis In
 - **Techniques**: Time series analysis, regression models, clustering, and machine learning algorithms such as Random Forest and Gradient Boosting.
 - **Evaluation**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared for predictive models; visualizations for trend analysis.
 
+## 3. Car Price Prediction
+- **Dataset**: Car sales data with features such as make, model, year, mileage, engine size, fuel type, and price.
+- **Goal**: Predict the selling price of a car based on its features.
+- **Techniques**: Linear Regression, Decision Trees, Random Forest, Gradient Boosting, and Neural Networks.
+- **Evaluation**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared, and cross-validation for model performance.
+
 **Clone the repository**:
 ```bash
 git clone https://github.com/shrutiijainn11/OIBSIP.git
