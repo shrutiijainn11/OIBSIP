@@ -37,6 +37,12 @@ This repository contains the work and projects completed as part of the Oasis In
 - **Techniques**: Linear Regression, Decision Trees, Random Forest, Gradient Boosting, and Neural Networks.
 - **Evaluation**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared, and cross-validation for model performance.
 
+## 4. Email Spam Detection
+- **Dataset**: Email data with features including email text, metadata (sender, subject, etc.), and a binary label (spam or not spam).
+- **Goal**: Classify emails as spam or non-spam (ham).
+- **Techniques**: Natural Language Processing (NLP), Naive Bayes, Support Vector Machines (SVM), Logistic Regression, and Neural Networks.
+- **Evaluation**: Accuracy, precision, recall, F1-score, and ROC-AUC.
+
 **Clone the repository**:
 ```bash
 git clone https://github.com/shrutiijainn11/OIBSIP.git
