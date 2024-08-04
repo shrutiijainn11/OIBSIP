@@ -43,6 +43,12 @@ This repository contains the work and projects completed as part of the Oasis In
 - **Techniques**: Natural Language Processing (NLP), Naive Bayes, Support Vector Machines (SVM), Logistic Regression, and Neural Networks.
 - **Evaluation**: Accuracy, precision, recall, F1-score, and ROC-AUC.
 
+## 5. Sales Prediction
+- **Dataset**: Sales data with features like date, product details, store information, promotions, and historical sales.
+- **Goal**: Predict future sales for a product or store.
+- **Techniques**: Time series forecasting (ARIMA, SARIMA), regression models, ensemble methods (Random Forest, Gradient Boosting), and Neural Networks (LSTM).
+- **Evaluation**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared, and cross-validation for model performance.
+
 **Clone the repository**:
 ```bash
 git clone https://github.com/shrutiijainn11/OIBSIP.git
