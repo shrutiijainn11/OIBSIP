@@ -49,6 +49,9 @@ This repository contains the work and projects completed as part of the Oasis In
 - **Techniques**: Time series forecasting (ARIMA, SARIMA), regression models, ensemble methods (Random Forest, Gradient Boosting), and Neural Networks (LSTM).
 - **Evaluation**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared, and cross-validation for model performance.
 
+## Contact
+For any questions or inquiries, please contact me at jshruti034@gmail.com
+
 **Clone the repository**:
 ```bash
 git clone https://github.com/shrutiijainn11/OIBSIP.git
